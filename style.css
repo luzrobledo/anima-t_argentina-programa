@@ -1,0 +1,134 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+.nav-link:hover{
+    color: #22193F;
+}
+.principal-title{
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.secondary-title{
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 28px;
+}
+
+
+.principal-text{
+    font-family: 'Nunito', sans-serif;
+    font-size: 22px;
+    margin-bottom: 3rem;
+}
+.pre-title{
+    font-family: 'Nunito', sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.text{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+.button{
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 60px;
+    padding: 0.6em 1.5em;
+    border: 0px;
+    color: white;
+    background-color: #E21982;
+}
+.button-border{
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 60px;
+    padding: 0.6em 1.5em;
+    color: #E21982;
+}
+.button-border{
+    border: 3px;
+    border-color: white;
+}
+
+.button:hover{
+    font-weight: bold;
+    color: white;
+    background-color: #d21777;
+}
+.modulo_principal{
+    height: 46rem;
+    color: white;
+    background-image: url(assets/banner-principal.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.modulo_info,
+.modulo_faqs{
+    color: #22193F;
+    background-color: #E8E8E8;    
+}
+.pre-title{
+    margin: 0;
+    color: #E21982;
+}
+
+.modulo_ayuda{
+    color: #22193F;   
+}
+
+.help-num{
+    color: #E21982;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.modulo_ayuda_link{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 23px;
+    color: white;
+    background-color: #E21982;
+}
+
+.accordion-header{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+.modulo_secondary_banner{
+    padding: 6rem 0;
+    color: white;
+    background-image: url(assets/banner-secundario.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footer_container{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: white;
+    background-color: #22193F;
+}
+.bi{
+    margin-right: 10px;
+    padding: 4px 8px;
+    border-radius: 100px;
+    color: #E21982;
+    background-color: white;
+}
+.footer-link{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+.footer-link:hover {
+    color: white;
+}
